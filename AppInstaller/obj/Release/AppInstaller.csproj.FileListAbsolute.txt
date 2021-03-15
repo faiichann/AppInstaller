@@ -1,0 +1,10 @@
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\bin\Release\AppInstaller.exe.config
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\bin\Release\AppInstaller.exe
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\bin\Release\AppInstaller.pdb
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.csprojAssemblyReference.cache
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.Form1.resources
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.Properties.Resources.resources
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.csproj.GenerateResource.cache
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.exe
+C:\Users\win10\source\repos\AppInstaller\AppInstaller\obj\Release\AppInstaller.pdb
